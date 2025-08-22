@@ -26,7 +26,7 @@ export default function DoneCancelledStep({
         <div className="mt-5 rounded-xl border border-gray-200 bg-gray-50 p-4">
           <div className="flex items-start gap-3">
             <Image
-              src="/mihailo-profile.jpg"
+              src="/mihailo-profile.jpeg"
               alt="Mihailo Bozic"
               width={44}
               height={44}
